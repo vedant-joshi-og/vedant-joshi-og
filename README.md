@@ -22,7 +22,7 @@ Learning and growing in the ever-evolving tech landscape
 
 🔍 What I'm currently working on:
 
-https://github.com/vemacitrind/roadmap
+https://github.com/vemacitrind/medilink
 
 💡 What I love:
 
