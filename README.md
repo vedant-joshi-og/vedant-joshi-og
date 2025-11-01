@@ -4,28 +4,19 @@ Welcome to my GitHub profile!
 
 I am Joshi Vedant, a passionate Computer Engineering student with a keen interest in exploring the world of software development, programming, and technology. My journey in computer engineering has allowed me to build a strong foundation in:
 
-🌐 Development
+### Development
 
-💻 Programming Languages (e.g., Python, Java, C++)
+- Programming Languages (e.g., Python, Java, C++)
+- Tools & Frameworks (e.g., React, Node.js)
+- Database (e.g., PostgreySQL, MySQL, MariaDB,Mongo)
+- Other : Burpsuit, WireShark, Hashcat 
 
-🛠️ Tools & Frameworks (e.g., React, Node.js)
+### I am enthusiastic about:
 
-🛠️ Database (e.g., PostgreySQL, MySQL, MariaDB,Mongo)
+- Cyber Security
 
-I am enthusiastic about:
+- Building innovative projects
 
-Building innovative projects
+- Contributing to open-source communities
 
-Contributing to open-source communities
-
-Learning and growing in the ever-evolving tech landscape
-
-🔍 What I'm currently working on:
-
-https://github.com/vemacitrind/medilink
-
-💡 What I love:
-
-Solving real-world problems through code
-
-Collaborating on exciting projects
+- Learning and growing in the ever-evolving tech landscape
