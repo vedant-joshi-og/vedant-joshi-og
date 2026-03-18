@@ -25,8 +25,8 @@ portfolio : <i><a href="vedant-joshi-og.vercel.app">vedant-joshi-og.vercel.app</
 ---
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vemacitrind&theme=dark&rank_icon=github" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vemacitrind&layout=compact&theme=dark" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vedant-joshi-og&theme=dark&rank_icon=github" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant-joshi-og&layout=compact&theme=dark" height="180"/>
 </p>
 
 ---
